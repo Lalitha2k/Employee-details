@@ -19,30 +19,31 @@ An Android app to display employees, flagging those active for 5+ years in green
 - **Database:** Firebase Firestore
 
 ---
-
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/Screenshots/homescreen.png)
+<img src="assets/Screenshots/homescreen.png" width="400" height="auto"/>
 
 ### Filter Employees
-![Filter Employee Details](assets/Screenshots/filter.png)
+<img src="assets/Screenshots/filter.png" width="400" height="auto"/>
 
 ### Search Employees
-![Search Employee](assets/Screenshots/search.png)
+<img src="assets/Screenshots/search.png" width="400" height="auto"/>
 
 ### Add Employee
-![Add Employee](assets/Screenshots/addemployee.png)
+<img src="assets/Screenshots/addemployee.png" width="400" height="auto"/>
 
 ### Successfully Added
-![Successfully Added Details](assets/Screenshots/successfullyadded.png)
+<img src="assets/Screenshots/successfullyadded.png" width="400" height="auto"/>
+
 ### Database 
-![database](assets/Screenshots/database.PNG)
+<img src="assets/Screenshots/database.png" width="400" height="auto"/>
+
 ---
 
 ## Demo
 To see the app in action, watch the demo video:
-![App Demo](assets/Screenshots/demo.mp4)
+<img src="assets/Screenshots/demomain.gif" width="400" height="auto"/>
 
 
 
@@ -53,22 +54,8 @@ To see the app in action, watch the demo video:
 
 
 
-Firestore Database Structure
-Collection: employees
-Fields:
-employeeId (String): A unique identifier for each employee.
-name (String): The name of the employee.
-joiningDate (String): The date the employee joined the organization in YYYY-MM-DD format.
-isActive (Boolean): Indicates whether the employee is currently active.
-Example Document:
-json
-Copy code
-{
-  "employeeId": "0030",
-  "name": "Renee Brown",
-  "joiningDate": "2003-02-02",
-  "isActive": true
-}
+
+
 ---
 
 ## Installation and Setup
