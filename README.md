@@ -37,7 +37,7 @@ An Android app to display employees, flagging those active for 5+ years in green
 <img src="assets/Screenshots/successfullyadded.png" width="400" height="auto"/>
 
 ### Database 
-<img src="assets/Screenshots/database.png" width="400" height="auto"/>
+<img src="assets/Screenshots/database.PNG" width="400" height="auto"/>
 
 ---
 
