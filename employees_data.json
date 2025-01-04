@@ -1,0 +1,304 @@
+{
+    "employees": {
+        "emp1": {
+            "employeeId": "0001",
+            "name": "Katrina Thompson",
+            "joiningDate": "2008-08-02",
+            "isActive": true
+        },
+        "emp2": {
+            "employeeId": "0002",
+            "name": "Isaac Guerrero",
+            "joiningDate": "2019-11-23",
+            "isActive": false
+        },
+        "emp3": {
+            "employeeId": "0003",
+            "name": "April Walker",
+            "joiningDate": "2018-04-17",
+            "isActive": false
+        },
+        "emp4": {
+            "employeeId": "0004",
+            "name": "George Walker",
+            "joiningDate": "2014-08-25",
+            "isActive": true
+        },
+        "emp5": {
+            "employeeId": "0005",
+            "name": "Justin Ingram",
+            "joiningDate": "2011-01-08",
+            "isActive": true
+        },
+        "emp6": {
+            "employeeId": "0006",
+            "name": "Jennifer Brown",
+            "joiningDate": "2002-01-24",
+            "isActive": false
+        },
+        "emp7": {
+            "employeeId": "0007",
+            "name": "Jessica Jones",
+            "joiningDate": "2022-05-30",
+            "isActive": true
+        },
+        "emp8": {
+            "employeeId": "0008",
+            "name": "Patricia Davidson",
+            "joiningDate": "2007-05-12",
+            "isActive": true
+        },
+        "emp9": {
+            "employeeId": "0009",
+            "name": "Amy Miller",
+            "joiningDate": "2004-03-15",
+            "isActive": true
+        },
+        "emp10": {
+            "employeeId": "0010",
+            "name": "Megan Robinson",
+            "joiningDate": "2019-03-31",
+            "isActive": false
+        },
+        "emp11": {
+            "employeeId": "0011",
+            "name": "Stacy Scott",
+            "joiningDate": "2003-04-14",
+            "isActive": false
+        },
+        "emp12": {
+            "employeeId": "0012",
+            "name": "David Garcia",
+            "joiningDate": "2002-06-12",
+            "isActive": true
+        },
+        "emp13": {
+            "employeeId": "0013",
+            "name": "John Edwards",
+            "joiningDate": "2018-07-28",
+            "isActive": true
+        },
+        "emp14": {
+            "employeeId": "0014",
+            "name": "Victor Patel",
+            "joiningDate": "2015-04-01",
+            "isActive": false
+        },
+        "emp15": {
+            "employeeId": "0015",
+            "name": "Rebecca Cole MD",
+            "joiningDate": "2022-03-23",
+            "isActive": true
+        },
+        "emp16": {
+            "employeeId": "0016",
+            "name": "Joshua Hunt",
+            "joiningDate": "2007-09-17",
+            "isActive": false
+        },
+        "emp17": {
+            "employeeId": "0017",
+            "name": "Jeffrey Sharp",
+            "joiningDate": "2023-05-10",
+            "isActive": false
+        },
+        "emp18": {
+            "employeeId": "0018",
+            "name": "Rachel Long",
+            "joiningDate": "2000-08-28",
+            "isActive": false
+        },
+        "emp19": {
+            "employeeId": "0019",
+            "name": "Carolyn Jarvis",
+            "joiningDate": "2002-10-21",
+            "isActive": false
+        },
+        "emp20": {
+            "employeeId": "0020",
+            "name": "Ashley Patterson",
+            "joiningDate": "2022-12-01",
+            "isActive": false
+        },
+        "emp21": {
+            "employeeId": "0021",
+            "name": "Isaac Cantrell",
+            "joiningDate": "2003-06-13",
+            "isActive": true
+        },
+        "emp22": {
+            "employeeId": "0022",
+            "name": "Beth George",
+            "joiningDate": "2020-03-03",
+            "isActive": false
+        },
+        "emp23": {
+            "employeeId": "0023",
+            "name": "Kenneth Davis",
+            "joiningDate": "2001-12-12",
+            "isActive": true
+        },
+        "emp24": {
+            "employeeId": "0024",
+            "name": "Jonathan Evans",
+            "joiningDate": "2004-09-27",
+            "isActive": false
+        },
+        "emp25": {
+            "employeeId": "0025",
+            "name": "Suzanne Jones",
+            "joiningDate": "2011-02-13",
+            "isActive": true
+        },
+        "emp26": {
+            "employeeId": "0026",
+            "name": "Patricia Atkins",
+            "joiningDate": "2008-04-26",
+            "isActive": false
+        },
+        "emp27": {
+            "employeeId": "0027",
+            "name": "Karen Stewart",
+            "joiningDate": "2022-01-26",
+            "isActive": true
+        },
+        "emp28": {
+            "employeeId": "0028",
+            "name": "Cynthia King",
+            "joiningDate": "2013-04-13",
+            "isActive": true
+        },
+        "emp29": {
+            "employeeId": "0029",
+            "name": "Joseph Nelson",
+            "joiningDate": "2010-06-08",
+            "isActive": false
+        },
+        "emp30": {
+            "employeeId": "0030",
+            "name": "Renee Brown",
+            "joiningDate": "2003-02-02",
+            "isActive": true
+        },
+        "emp31": {
+            "employeeId": "0031",
+            "name": "Danielle Bell",
+            "joiningDate": "2019-10-28",
+            "isActive": true
+        },
+        "emp32": {
+            "employeeId": "0032",
+            "name": "Bryan Henry",
+            "joiningDate": "2010-03-28",
+            "isActive": false
+        },
+        "emp33": {
+            "employeeId": "0033",
+            "name": "Lori Wells",
+            "joiningDate": "2011-08-28",
+            "isActive": true
+        },
+        "emp34": {
+            "employeeId": "0034",
+            "name": "Tammy Estrada",
+            "joiningDate": "2020-11-15",
+            "isActive": true
+        },
+        "emp35": {
+            "employeeId": "0035",
+            "name": "Tiffany Gross",
+            "joiningDate": "2021-04-08",
+            "isActive": false
+        },
+        "emp36": {
+            "employeeId": "0036",
+            "name": "John Bates",
+            "joiningDate": "2008-10-23",
+            "isActive": true
+        },
+        "emp37": {
+            "employeeId": "0037",
+            "name": "Rachel Lee",
+            "joiningDate": "2002-08-16",
+            "isActive": false
+        },
+        "emp38": {
+            "employeeId": "0038",
+            "name": "Timothy Brown",
+            "joiningDate": "2012-07-05",
+            "isActive": false
+        },
+        "emp39": {
+            "employeeId": "0039",
+            "name": "Vickie Tate",
+            "joiningDate": "2004-07-11",
+            "isActive": false
+        },
+        "emp40": {
+            "employeeId": "0040",
+            "name": "Scott Thompson",
+            "joiningDate": "2006-01-09",
+            "isActive": false
+        },
+        "emp41": {
+            "employeeId": "0041",
+            "name": "Wanda Roberts",
+            "joiningDate": "2018-03-11",
+            "isActive": true
+        },
+        "emp42": {
+            "employeeId": "0042",
+            "name": "Kathleen Carlson",
+            "joiningDate": "2023-04-15",
+            "isActive": false
+        },
+        "emp43": {
+            "employeeId": "0043",
+            "name": "Tracy Ford",
+            "joiningDate": "2004-08-04",
+            "isActive": false
+        },
+        "emp44": {
+            "employeeId": "0044",
+            "name": "Kristin Lewis",
+            "joiningDate": "2024-10-12",
+            "isActive": true
+        },
+        "emp45": {
+            "employeeId": "0045",
+            "name": "Stacy Adams",
+            "joiningDate": "2012-01-06",
+            "isActive": false
+        },
+        "emp46": {
+            "employeeId": "0046",
+            "name": "Joseph Jones",
+            "joiningDate": "2015-05-24",
+            "isActive": false
+        },
+        "emp47": {
+            "employeeId": "0047",
+            "name": "Tyler Taylor",
+            "joiningDate": "2008-04-14",
+            "isActive": true
+        },
+        "emp48": {
+            "employeeId": "0048",
+            "name": "Jennifer Nolan",
+            "joiningDate": "2004-09-27",
+            "isActive": false
+        },
+        "emp49": {
+            "employeeId": "0049",
+            "name": "Sara Parks",
+            "joiningDate": "2002-09-24",
+            "isActive": true
+        },
+        "emp50": {
+            "employeeId": "0050",
+            "name": "Hannah Hughes",
+            "joiningDate": "2014-06-12",
+            "isActive": false
+        }
+    }
+}
